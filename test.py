@@ -1,3 +1,3 @@
-print("bhangu is learning git")
+print("bhangu is learning git fast")
 for i in range(5):
     print(i*2)
